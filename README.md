@@ -36,15 +36,30 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-<br>
-<br>
-<img align="right" alt="Coder GIF" height=180 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🌱 Currently learning **PostgreSQL & Docker**
-- 👨‍💻 All projects available at **[ummenahida.com](https://ummenahida.com)**
-- 📫 Reach me at **nahida.webdev@gmail.com**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun fact: I enjoy creating bugs and learn something new every time.🙂
+<h2 align="center">👩‍💻 About Me</h2>
+
+<table>
+  <tr>
+    <td width="65%">
+
+- 🌱 Currently learning <b>PostgreSQL & Docker</b>  
+- 👨‍💻 All projects available at <b><a href="https://ummenahida.com">ummenahida.com</a></b>  
+- 📫 Reach me at <b>nahida.webdev@gmail.com</b>  
+- 💬 Ask me about <b>JavaScript, React, Node.js</b>  
+- ⚡ Fun fact: I enjoy creating bugs and learn something new every time 🙂
+
+</td>
+
+<td width="35%" align="center">
+  <img
+    src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
+    alt="Coder GIF"
+    width="260"
+  />
+</td>
+  </tr>
+</table>
 
 <h2 align="center">⚙️ Skills & Tech Stack</h2>
 
