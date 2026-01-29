@@ -36,12 +36,9 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-
-<h2 align="center">👩‍💻 About Me</h2>
-
 <table>
   <tr>
-    <td width="65%">
+    <td width="60%" valign="top">
 
 - 🌱 Currently learning <b>PostgreSQL & Docker</b>  
 - 👨‍💻 All projects available at <b><a href="https://ummenahida.com">ummenahida.com</a></b>  
@@ -51,7 +48,7 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
   <img
     src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
     alt="Coder GIF"
@@ -61,10 +58,13 @@
   </tr>
 </table>
 
+<br/>
+
 <h2 align="center">⚙️ Skills & Tech Stack</h2>
 
 <details>
 <summary align="center"><b>📂 ~/Umme_Nahida — click to expand</b></summary>
+
 
 ```bash
 📂 ~/Umme_Nahida
