@@ -36,7 +36,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-- 🌱 Currently learning **TypeScript & Mongoose**
+- 🌱 Currently learning **PostgreSQL & Docker**
 - 👨‍💻 All projects available at **[ummenahida.com](https://ummenahida.com)**
 - 📫 Reach me at **nahida.webdev@gmail.com**
 - 💬 Ask me about **JavaScript, React, Node.js**
