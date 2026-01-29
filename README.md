@@ -38,7 +38,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="center">
 
 - 🌱 Currently learning <b>PostgreSQL & Docker</b>  
 - 👨‍💻 All projects available at <b><a href="https://ummenahida.com">ummenahida.com</a></b>  
