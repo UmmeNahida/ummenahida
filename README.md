@@ -37,7 +37,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <br>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=180 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🌱 Currently learning **PostgreSQL & Docker**
 - 👨‍💻 All projects available at **[ummenahida.com](https://ummenahida.com)**
