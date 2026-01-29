@@ -2,7 +2,7 @@
 
 <p align="center">
   Frontend & MERN Stack Developer • Problem Solver • UI-focused Builder
-</p>
+</p> 
 
 <p align="center">
   I’m a passionate <strong>Frontend & MERN Stack Developer</strong> who loves building clean, responsive, and user-focused web applications.  
@@ -40,7 +40,7 @@
 - 👨‍💻 All projects available at **[ummenahida.com](https://ummenahida.com)**
 - 📫 Reach me at **nahida.webdev@gmail.com**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun fact: I can’t think of solutions without opening a code editor 🙂
+- ⚡ Fun fact: I enjoy creating bug and learn something new every time.🙂
 
 <h2 align="center">⚙️ Skills & Tech Stack</h2>
 
