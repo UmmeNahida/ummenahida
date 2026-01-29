@@ -114,7 +114,7 @@
     </td>
     <td align="center" width="33%">
       <h3> <a href="https://github.com/UmmeNahida/PH-health-care">Health Care</a></h3>
-      <p>PH Health Care is a full-stack healthcare application with Admin, Doctor, and Patient roles, enabling smart doctor discovery, online appointment booking, and efficient schedule and appointment management.A powerfull modern Health Care Applications</p>
+      <p>PH Health Care is a full-stack healthcare platform with doctor discovery, online appointment booking, efficient schedule and appointment management.</p>
       <img src="https://img.shields.io/github/stars/UmmeNahida/PH-health-care?style=flat&logo=github&color=green" />
       <img src="https://img.shields.io/github/languages/top/UmmeNahida/PH-health-care?style=flat&color=blue" />
     </td>
