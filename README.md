@@ -52,7 +52,7 @@
   <img
     src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
     alt="Coder GIF"
-    width="260"
+    width="300"
   />
 </td>
   </tr>
