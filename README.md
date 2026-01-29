@@ -113,10 +113,10 @@
       <img src="https://img.shields.io/github/languages/top/UmmeNahida/next-level-project6-frontend?style=flat&color=blue" />
     </td>
     <td align="center" width="33%">
-      <h3>😊 <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Ride Management</a></h3>
-      <p>A powerfull modern Event Management Applications</p>
-      <img src="https://img.shields.io/github/stars/UmmeNahida/next-level-project6-frontend?style=flat&logo=github&color=green" />
-      <img src="https://img.shields.io/github/languages/top/UmmeNahida/next-level-project6-frontend?style=flat&color=blue" />
+      <h3>😊 <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Health Care</a></h3>
+      <p>A powerfull modern Health Care Applications</p>
+      <img src="https://img.shields.io/github/stars/UmmeNahida/PH-health-care?style=flat&logo=github&color=green" />
+      <img src="https://img.shields.io/github/languages/top/UmmeNahida/PH-health-care?style=flat&color=blue" />
     </td>
   </tr>
 </table>
