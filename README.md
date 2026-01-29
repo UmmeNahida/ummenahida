@@ -40,7 +40,7 @@
 - 👨‍💻 All projects available at **[ummenahida.com](https://ummenahida.com)**
 - 📫 Reach me at **nahida.webdev@gmail.com**
 - 💬 Ask me about **JavaScript, React, Node.js**
-- ⚡ Fun fact: I enjoy creating bug and learn something new every time.🙂
+- ⚡ Fun fact: I enjoy creating bugs and learn something new every time.🙂
 
 <h2 align="center">⚙️ Skills & Tech Stack</h2>
 
@@ -102,18 +102,18 @@
   <tr>
     <td align="center" width="33%">
       <h3>🔧 <a href="https://github.com/UmmeNahida/event-activities-client">Event Management</a></h3>
-      <p>A powerfull modern Event Management Applications</p>
+      <p>A full-stack event management platform that connects users with local activities, enabling event discovery, participation, reviews, payments, and admin moderation.</p>
       <img src="https://img.shields.io/github/stars/UmmeNahida/event-activities-client?style=flat&logo=github&color=green" />
       <img src="https://img.shields.io/github/languages/top/UmmeNahida/event-activities-client?style=flat&color=blue" />
     </td>
     <td align="center" width="33%">
-      <h3>😊 <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Ride Management</a></h3>
+      <h3> <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Ride Management</a></h3>
       <p>A powerfull modern Ride Management Applications</p>
       <img src="https://img.shields.io/github/stars/UmmeNahida/next-level-project6-frontend?style=flat&logo=github&color=green" />
       <img src="https://img.shields.io/github/languages/top/UmmeNahida/next-level-project6-frontend?style=flat&color=blue" />
     </td>
     <td align="center" width="33%">
-      <h3>😊 <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Health Care</a></h3>
+      <h3> <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Health Care</a></h3>
       <p>A powerfull modern Health Care Applications</p>
       <img src="https://img.shields.io/github/stars/UmmeNahida/PH-health-care?style=flat&logo=github&color=green" />
       <img src="https://img.shields.io/github/languages/top/UmmeNahida/PH-health-care?style=flat&color=blue" />
