@@ -32,7 +32,7 @@
 
 <br />
 
-![README banner](./assets/banner.png)
+![README banner](./assets/banner.jpg)
 
 <h2 align="center">👩‍💻 About Me</h2>
 
