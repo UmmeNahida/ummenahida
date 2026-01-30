@@ -44,7 +44,7 @@
 - 👨‍💻 All projects available at <b><a href="https://ummenahida.com">ummenahida.com</a></b>  
 - 📫 Reach me at <b>nahida.webdev@gmail.com</b>  
 - 💬 Ask me about <b>JavaScript, React, Node.js</b>  
-- ⚡ Fun fact: I enjoy creating bugs and learn something new every time 🙂
+- ⚡ Fun fact: I enjoy creating bugs and learn something new every time
 
 </td>
 
