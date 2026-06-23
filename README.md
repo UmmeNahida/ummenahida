@@ -1,28 +1,29 @@
-<h1 align="center">Hi 👋, I'm <strong>Umme Nahida</strong></h1>
-
 <p align="center">
-  Frontend & MERN Stack Developer • Problem Solver • UI-focused Builder
-</p> 
-
-<p align="center">
-  I’m a passionate <strong>Frontend & MERN Stack Developer</strong> who loves building clean, responsive, and user-focused web applications.  
-  I enjoy working with modern JavaScript frameworks, writing maintainable code, and turning ideas into real products.
+  <img src="./assets/banner.jpg" alt="Umme Nahida - Frontend & MERN Stack Developer" width="100%" />
 </p>
 
-<p align="center">
-  Outside of coding, I explore new tools, improve my skills through hands-on projects, and enjoy learning how things work under the hood.
-</p>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<br />
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ummenahida&label=Profile%20Views&color=blue&style=flat" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ummenahida&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://wakatime.com/@ummenahida" target="_blank">
+    <img src="https://wakatime.com/badge/user/17f2a208-6ac2-4d43-a074-4d6b5755b4b8.svg" />
+  </a>
+</p>
 
 <div align="center">
-  <a href="https://github.com/UmmeNahida" target="_blank">
+  <a href="https://github.com/ummenahida" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/UmmeNahida" target="_blank">
+  <a href="https://linkedin.com/in/ummenahida" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/UmmeNahida.dev" target="_blank">
+  <a href="https://facebook.com/ummenahida.dev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
   <a href="https://ummenahida.com" target="_blank">
@@ -30,78 +31,23 @@
   </a>
 </div>
 
-<br />
-
-![README banner](./assets/banner.jpg)
-
-<h2 align="center">👩‍💻 About Me</h2>
-
-<table>
-  <tr>
-    <td width="60%" valign="center">
-
-- 🌱 Currently learning <b>PostgreSQL & Docker</b>  
-- 👨‍💻 All projects available at <b><a href="https://ummenahida.com">ummenahida.com</a></b>  
-- 📫 Reach me at <b>nahida.webdev@gmail.com</b>  
-- 💬 Ask me about <b>JavaScript, React, Node.js</b>  
-- ⚡ Fun fact: I enjoy creating bugs and learn something new every time
-
-</td>
-
-<td width="40%" align="center">
-  <img
-    src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
-    alt="Coder GIF"
-    width="300"
-  />
-</td>
-  </tr>
-</table>
-
 <br/>
 
-<h2 align="center">⚙️ Skills & Tech Stack</h2>
+<p align="center">
+  <a href="https://wakatime.com/@ummenahida" target="_blank">
+    <img src="https://stats.ummenahida.com/api/wakatime?username=ummenahida&layout=compact&langs_count=8&card_width=390&theme=github_dark&border_color=3d444d&" alt="ummenahida WakaTime stats" height="180" />
+  </a>
+  <img src="https://stats.ummenahida.com/api?username=ummenahida&show_icons=true&theme=github_dark&border_color=3d444d&" alt="ummenahida GitHub stats" height="180" />
+</p>
 
-<details>
-<summary align="center"><b>📂 ~/Umme_Nahida — click to expand</b></summary>
+<br/>
+<br/>
 
+<h3 align="center">⚙️ Skills & Tech Stack</h3>
 
-```bash
-📂 ~/Umme_Nahida
-├── 💻 languages
-│   ├── javascript
-│   ├── typescript
-│   └── shell_scripts
-│
-├── 🚀 backend
-│   ├── node.js
-│   ├── express.js
-│   ├── bun
-│   └── mvc_architecture
-│
-├── 🎨 frontend
-│   ├── react
-│   ├── next.js
-│   ├── shadcn-ui
-│   ├── tailwind
-│   ├── mui
-│   ├── progressive_web_apps
-│   └── service_workers
-│
-├── 🗄️ databases
-│   ├── postgresql
-│   ├── mongodb
-│   └── redis
-│
-└── 🔧 tools_&_platforms
-    ├── git | github | gitlab
-    ├── postman
-    ├── docker
-    ├── vs_code
-    └── figma
-```
-
-</details>
+<p align="center">
+  🔗 Full skillset: <a href="https://ummenahida.com/skills">ummenahida.com/skills</a>
+</p>
 
 <br />
 
@@ -111,37 +57,44 @@
 
 </div>
 
-<h2 align="center">📦 Featured Projects</h2>
+<br/>
+<br/>
+
+<h3 align="center">📦 Featured Projects</h3>
 
 <p align="center">
-  A selection of tools, libraries, and experiments I’ve built while solving real problems.
+  A collection of full-stack web apps I've built — from idea to deployment.
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🔧 <a href="https://github.com/UmmeNahida/event-activities-client">Event Management</a></h3>
-      <p>A full-stack event management platform that connects users with local activities, enabling event discovery, participation, reviews, payments, and admin moderation.</p>
-      <img src="https://img.shields.io/github/stars/UmmeNahida/event-activities-client?style=flat&logo=github&color=green" />
-      <img src="https://img.shields.io/github/languages/top/UmmeNahida/event-activities-client?style=flat&color=blue" />
-    </td>
-    <td align="center" width="33%">
-      <h3> <a href="https://github.com/UmmeNahida/next-level-project6-frontend">Ride Management</a></h3>
-      <p>The Ride Management System is a web application designed to manage and monitor rides efficiently.</p>
-      <img src="https://img.shields.io/github/stars/UmmeNahida/next-level-project6-frontend?style=flat&logo=github&color=green" />
-      <img src="https://img.shields.io/github/languages/top/UmmeNahida/next-level-project6-frontend?style=flat&color=blue" />
-    </td>
-    <td align="center" width="33%">
-      <h3> <a href="https://github.com/UmmeNahida/PH-health-care">Health Care</a></h3>
-      <p>PH Health Care is a full-stack healthcare platform with doctor discovery, online appointment booking, efficient schedule and appointment management.</p>
-      <img src="https://img.shields.io/github/stars/UmmeNahida/PH-health-care?style=flat&logo=github&color=green" />
-      <img src="https://img.shields.io/github/languages/top/UmmeNahida/PH-health-care?style=flat&color=blue" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ummenahida/event-activities-client">
+    <img src="https://stats.ummenahida.com/api/pin?username=ummenahida&repo=event-activities-client&theme=github_dark&border_color=3d444d&cache_seconds=21600&show_icons=true" />
+  </a>
+  <a href="https://github.com/ummenahida/next-level-project6-frontend">
+    <img src="https://stats.ummenahida.com/api/pin?username=ummenahida&repo=next-level-project6-frontend&theme=github_dark&border_color=3d444d&cache_seconds=21600&show_icons=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ummenahida/PH-health-care">
+    <img src="https://stats.ummenahida.com/api/pin?username=ummenahida&repo=PH-health-care&theme=github_dark&border_color=3d444d&cache_seconds=21600&show_icons=true" />
+  </a>
+    <a href="https://github.com/ummenahida/PH-health-care">
+    <img src="https://stats.ummenahida.com/api/pin?username=ummenahida&repo=buten-watch&theme=github_dark&border_color=3d444d&cache_seconds=21600&show_icons=true" />
+  </a>
+</p>
+
+<br />
 
 <div align="center">
   <a href="https://ummenahida.com/#work">
     <img src="https://img.shields.io/badge/View_All_Projects-ummenahida.com/work-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</div>
+
+<br/>
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2128,50:13171D,100:1C2128&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=d0d7de&animation=twinkling&fontAlignY=70" width="100%"/>
 </div>
